@@ -28,5 +28,5 @@
 
 <p align="left">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=HenriqueSoriano&show_icons=true&theme=dracula&custom_title=Henrique Soriano Landes - Status" alt="HenriqueSoriano's stats"/>
-<img width="490em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSoriano&layout=compact&theme=dracula&custom_title=Linguagens Mais Usadas" alt="HenriqueSoriano's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSoriano&layout=compact&theme=dracula&custom_title=Linguagens Mais Usadas" alt="HenriqueSoriano's most languages"/>
 </p>
